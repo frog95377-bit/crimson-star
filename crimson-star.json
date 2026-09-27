@@ -150,7 +150,7 @@
     "BLUE_700": "#200408"
   },
   "background": {
-    "blur": 6.0,
+    "blur": 0.0,
     "url": "https://i.supaimg.com/e5a5eeaa-1ba1-4d42-9d6f-572c16526eab/0bde6d8b-dbe8-438b-a4b4-874b246a6775.jpg",
     "alpha": 0.4
   },
